@@ -1,0 +1,17 @@
+uuid: d7c7d87a-e2a5-4cd3-8e7e-ffd36aa5e9f3
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Chefs
+type: chefs
+description: 'People in charge of creating the dishes'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

@@ -1,0 +1,19 @@
+uuid: b22ce7f7-0109-483a-aa39-d22d2d698250
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_chef
+field_name: field_chef
+entity_type: node
+type: entity_reference
+settings:
+  target_type: node
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,10 @@
+uuid: 3721abff-9a30-4b5d-8110-01ee56a02dfc
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.view_mode_large_image
+label: 'View mode large image'
+targetEntityType: media
+cache: true

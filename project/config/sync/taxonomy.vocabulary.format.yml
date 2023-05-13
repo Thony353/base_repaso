@@ -1,0 +1,8 @@
+uuid: 7c32bc8e-5f89-4626-a4ad-2c143742b19e
+langcode: en
+status: true
+dependencies: {  }
+name: Format
+vid: format
+description: 'Examples: desserts, Main course'
+weight: 0

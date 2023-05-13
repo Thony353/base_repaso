@@ -1,0 +1,15 @@
+uuid: 05255a8a-e024-4eb4-a5f8-25b470407e56
+langcode: en
+status: true
+dependencies: {  }
+name: large_images
+label: 'Large images'
+effects:
+  da117874-1ae5-4bdc-8004-cd1f404e9363:
+    uuid: da117874-1ae5-4bdc-8004-cd1f404e9363
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 300
+      height: 450
+      anchor: left-bottom
