@@ -1,0 +1,166 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/amet-dolus-gilvus-haero-inhibeo-premo-qui-saepius.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/media\/remote_video"
+        },
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/remote_video\/revision_user": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/remote_video\/uid": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/remote_video\/thumbnail": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/media-icons\/generic\/video.png",
+                "lang": "und"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "0239c47d-5fab-4550-8b5a-8e812f5bac54"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "remote_video"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-13T00:04:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/remote_video\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "574e1d29-8023-456f-8372-aa0c8730ac2b"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/remote_video\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "574e1d29-8023-456f-8372-aa0c8730ac2b"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/remote_video\/thumbnail": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/media-icons\/generic\/video.png"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "981d6563-007d-40a3-aea7-0de715545820"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Feugiat nunc olim tamen voco vulpes. At euismod praesent quibus quidem vero. Defui esca ratis turpis. Blandit comis eum haero ibidem metuo patria persto roto vindico. Commodo esse luptatum.\n\nNostrud oppeto refero. Ad iustum jumentum. Abbas autem dolus letalis quidem sit turpis. Brevitas patria proprius veniam. Aptent defui hendrerit iustum luptatum modo valetudo vel veniam. Dignissim plaga qui.\n\nConventio laoreet mauris melior nulla praemitto singularis tego ullamcorper. Amet facilisis lobortis tum verto ymo. Amet augue cogo humo imputo iustum secundum similis tincidunt. Facilisi iaceo immitto luptatum olim os pagus premo vel volutpat. Facilisis torqueo utrum. Eligo importunus loquor. Cui eum humo refero rusticus saepius scisco suscipere vel. Caecus et illum mauris refoveo si sino torqueo. Adipiscing eligo eros ibidem probo scisco.\n\nEsca nobis os quia saepius utrum. Eros eu nisl patria quae qui si suscipere vel. Acsi aliquam lenis nibh nimis quia turpis. Ad decet lucidus molior veniam. Paratus pecus praemitto suscipit utinam ymo. Adipiscing damnum gemino lobortis ludus nobis scisco sed valetudo vicis.\n\nMolior praesent vindico. Abdo ex facilisi genitus. Eum haero mauris occuro tation validus venio. Defui esse gemino molior pala venio vereor volutpat. Augue dolore eros iaceo olim quibus refoveo sit uxor veniam.\n\nDiam distineo incassum laoreet neo rusticus suscipit torqueo. Illum jus luctus nobis pagus quibus. Et euismod hendrerit immitto nunc vindico. Aliquam jus oppeto pagus saepius ulciscor wisi. Abico consequat genitus humo mos nostrud sagaciter. Modo vicis virtus. Abluo caecus defui saepius vereor. Cui diam facilisi haero jugis letalis quadrum quidne sudo volutpat.\n\nAbdo abigo ad vicis. Consectetuer oppeto paulatim proprius sit suscipit utinam. Pertineo si virtus. Ibidem jugis scisco. Letalis paulatim rusticus. Appellatio eligo lucidus premo sed. Humo lenis mauris nibh persto saepius sino sudo ut virtus.\n\nAbbas exputo neque sit volutpat. Acsi ad augue feugiat ideo neo praesent similis tincidunt venio. Duis jus letalis persto refoveo sed tamen tum turpis voco. Acsi ad amet dolor magna pala pertineo valde. Abluo dolus hos importunus pneum ratis tincidunt.\n\nCogo dolus gilvus hos humo laoreet proprius quidne sed torqueo. Amet esse os volutpat. Diam ea nutus usitas. Aliquam exputo haero inhibeo luptatum natu praesent scisco voco. Accumsan pala sit te valde. Conventio dolus luctus qui valde. At augue bene feugiat metuo molior mos neo venio ymo. Brevitas gemino iaceo imputo pneum. Blandit eros esse eu genitus ibidem inhibeo nulla pecus.\n\nAbbas amet bene consequat haero si turpis. Abbas elit gravis occuro praesent premo proprius quae. Dignissim eligo imputo utrum. Commodo dolor nutus ullamcorper. Bene consectetuer defui huic metuo minim patria tego ullamcorper. Hos iaceo ludus ratis. Aliquip antehabeo autem ea humo ille imputo.\n\nAmet letalis ullamcorper usitas. Dignissim haero huic obruo oppeto quidem. Conventio facilisis probo refoveo. Camur cogo immitto persto sino torqueo usitas uxor veniam vindico. Immitto nunc occuro sed torqueo valde vel. Abico eligo haero lenis melior mos. Duis eligo enim iusto macto metuo persto refero tincidunt. Damnum gravis jumentum magna nunc os paratus persto saepius. At autem eros lenis loquor typicus venio zelus.\n\nDecet dignissim fere hos incassum luctus occuro singularis vulpes. Nobis obruo olim similis. Caecus eros haero minim tego tum velit. Commoveo dolor enim ex pagus refero sino validus volutpat. Abluo accumsan autem exerci nibh quae. Conventio elit magna modo quae te.\n\n"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "name": [
+        {
+            "value": "ualustofrusputuchaniwravuliporigucimophivejejaclesosiprehethejekakeveslatajubonestaspocophotrinepafrispiwudinowriuiuobrowechono",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-12-01T06:08:05+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-09T17:54:08+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/amet-dolus-gilvus-haero-inhibeo-premo-qui-saepius.",
+            "pid": 1,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "field_media_oembed_video": [
+        {
+            "value": "cechopicracibrafreclutramophiweproluwrolefretrosticlibowoputhemabijekakitaspupocrebatramugohaswahulakagospaslecregespe",
+            "lang": "und"
+        }
+    ]
+}

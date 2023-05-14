@@ -1,0 +1,196 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/node\/45?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/node\/courses"
+        },
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/courses\/revision_uid": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/1?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/courses\/uid": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/courses\/field_category": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/taxonomy\/term\/17?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/courses\/field_program": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/vtUrmhU9c9.txt"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 45
+        }
+    ],
+    "uuid": [
+        {
+            "value": "2c3876ce-3883-4b53-ba57-9659b6bded0b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "courses"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-13T19:45:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/courses\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "429443e0-f445-4126-b45a-d083660f1060"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/courses\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "429443e0-f445-4126-b45a-d083660f1060"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/courses\/field_category": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/taxonomy\/term\/17?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/taxonomy_term\/courses_category"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e52e4fd3-624e-4ca3-82ad-842b45e15375"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/courses\/field_program": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/vtUrmhU9c9.txt"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ba35dc03-95f8-4a3a-a050-32c26309ff50"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Courses - Pagus Quis Te",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-12T12:10:20+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-13T19:45:56+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Abdo commodo ex interdico meus nutus pertineo quidne si utrum. Accumsan facilisis premo turpis vereor. Abbas capto cogo esca gemino haero letalis metuo probo quadrum. Capto iriure utrum. Acsi letalis pala pertineo sit.\n\nAbico commoveo esse ideo nulla nunc. Antehabeo defui dolor imputo mauris quibus singularis suscipit. Adipiscing cui exputo pagus vel vereor vero verto vicis. Aliquam mos nostrud sudo suscipit validus wisi. Consectetuer euismod melior nobis odio quis sino virtus. Commoveo ludus vero. Facilisi interdico zelus. Blandit capto diam enim eros inhibeo laoreet venio vindico. Commodo eu neque sino valetudo vereor zelus.\n\nDolore erat gilvus iustum molior neo scisco tamen uxor zelus. Causa consequat dolus eros genitus lenis ratis refoveo te vero. Euismod eum metuo volutpat. Conventio exputo meus nimis odio persto turpis. Comis eros eu ex pecus sagaciter velit vicis voco. Defui iaceo incassum qui suscipere. At eu immitto magna mauris persto singularis ulciscor veniam vereor. Brevitas comis cui jugis lucidus nobis nutus sit.\n\nAliquip enim qui sed torqueo vero volutpat vulputate. Aliquam dolor ea feugiat lobortis quadrum refoveo singularis. Ideo mos pagus quibus suscipit voco. Facilisi facilisis nisl persto refoveo.\n\nCausa commodo esse importunus neo nostrud os pala quadrum quibus. Cui damnum loquor pagus plaga rusticus saluto singularis usitas veniam. Esse immitto nunc plaga quae quidem suscipere velit vero verto. Abdo capto hendrerit meus. Jumentum nostrud pertineo. Autem camur erat genitus ibidem suscipere voco zelus. Os sagaciter te. Appellatio caecus cogo cui diam et ideo sagaciter utrum veniam.\n\nAdipiscing aliquam cogo ea facilisi lobortis lucidus molior patria veniam. Ibidem inhibeo lucidus nutus quibus. Comis eligo facilisi minim refero vindico zelus. Eligo pala tamen tum ut voco volutpat ymo. Abdo aptent eros nobis wisi. Abico nimis nunc persto probo proprius sagaciter. Consequat illum letalis praesent sit tamen tum. Decet dolor facilisis hendrerit in.\n\nAptent caecus dolor humo nostrud. Gilvus laoreet plaga tego tincidunt turpis ulciscor. Damnum immitto minim neque saepius torqueo vicis. At ibidem imputo obruo oppeto sagaciter singularis turpis utinam. Abbas antehabeo molior nimis patria quia sino. Autem commoveo consequat plaga. Immitto mos odio proprius tum. Illum importunus macto mos patria quae singularis.\n\nCausa gilvus ille suscipit typicus zelus. At enim erat hendrerit molior neo. Abdo bene obruo os pala pneum proprius te. Eros exputo laoreet pecus vel. Consectetuer eligo gemino letalis loquor paulatim qui singularis.\n\nAd aptent decet ibidem nibh nostrud nunc oppeto vindico. Gilvus iusto oppeto pecus populus sed te torqueo velit. Aptent bene brevitas fere gravis lobortis luctus nisl singularis typicus.\n\nCausa comis dignissim dolus et jus nibh os quadrum torqueo. Comis cui ille jugis occuro sed similis sino ut utinam. Caecus iriure odio pertineo premo tego vero. Dignissim pagus ymo. Causa conventio huic lenis quidne ratis.\n\nAbbas bene conventio mos os praemitto tincidunt vero. Autem dolore hos importunus quidem refero. Immitto loquor pecus persto quibus similis vicis ymo. Dolus eligo esse plaga probo saluto turpis vulpes. Blandit gravis nisl plaga. Abico commodo immitto neque quidem.\n\nExerci meus quadrum. Immitto in macto sit virtus. Brevitas commoveo dolus ea eros letalis metuo mos similis valetudo. Commodo mos paratus quae similis vel. Aliquam bene dolore eu in quia saepius usitas vero. Esse feugiat meus natu pneum quae veniam ymo. Cui immitto occuro olim vicis. Consequat defui eu feugiat venio vulpes wisi.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Abdo commodo ex interdico meus nutus pertineo quidne si utrum. Accumsan facilisis premo turpis vereor. Abbas capto cogo esca gemino haero letalis metuo probo quadrum. Capto iriure utrum. Acsi letalis pala pertineo sit.<\/p>\n<p>Abico commoveo esse ideo nulla nunc. Antehabeo defui dolor imputo mauris quibus singularis suscipit. Adipiscing cui exputo pagus vel vereor vero verto vicis. Aliquam mos nostrud sudo suscipit validus wisi. Consectetuer euismod melior nobis odio quis sino virtus. Commoveo ludus vero. Facilisi interdico zelus. Blandit capto diam enim eros inhibeo laoreet venio vindico. Commodo eu neque sino valetudo vereor zelus.<\/p>\n<p>Dolore erat gilvus iustum molior neo scisco tamen uxor zelus. Causa consequat dolus eros genitus lenis ratis refoveo te vero. Euismod eum metuo volutpat. Conventio exputo meus nimis odio persto turpis. Comis eros eu ex pecus sagaciter velit vicis voco. Defui iaceo incassum qui suscipere. At eu immitto magna mauris persto singularis ulciscor veniam vereor. Brevitas comis cui jugis lucidus nobis nutus sit.<\/p>\n<p>Aliquip enim qui sed torqueo vero volutpat vulputate. Aliquam dolor ea feugiat lobortis quadrum refoveo singularis. Ideo mos pagus quibus suscipit voco. Facilisi facilisis nisl persto refoveo.<\/p>\n<p>Causa commodo esse importunus neo nostrud os pala quadrum quibus. Cui damnum loquor pagus plaga rusticus saluto singularis usitas veniam. Esse immitto nunc plaga quae quidem suscipere velit vero verto. Abdo capto hendrerit meus. Jumentum nostrud pertineo. Autem camur erat genitus ibidem suscipere voco zelus. Os sagaciter te. Appellatio caecus cogo cui diam et ideo sagaciter utrum veniam.<\/p>\n<p>Adipiscing aliquam cogo ea facilisi lobortis lucidus molior patria veniam. Ibidem inhibeo lucidus nutus quibus. Comis eligo facilisi minim refero vindico zelus. Eligo pala tamen tum ut voco volutpat ymo. Abdo aptent eros nobis wisi. Abico nimis nunc persto probo proprius sagaciter. Consequat illum letalis praesent sit tamen tum. Decet dolor facilisis hendrerit in.<\/p>\n<p>Aptent caecus dolor humo nostrud. Gilvus laoreet plaga tego tincidunt turpis ulciscor. Damnum immitto minim neque saepius torqueo vicis. At ibidem imputo obruo oppeto sagaciter singularis turpis utinam. Abbas antehabeo molior nimis patria quia sino. Autem commoveo consequat plaga. Immitto mos odio proprius tum. Illum importunus macto mos patria quae singularis.<\/p>\n<p>Causa gilvus ille suscipit typicus zelus. At enim erat hendrerit molior neo. Abdo bene obruo os pala pneum proprius te. Eros exputo laoreet pecus vel. Consectetuer eligo gemino letalis loquor paulatim qui singularis.<\/p>\n<p>Ad aptent decet ibidem nibh nostrud nunc oppeto vindico. Gilvus iusto oppeto pecus populus sed te torqueo velit. Aptent bene brevitas fere gravis lobortis luctus nisl singularis typicus.<\/p>\n<p>Causa comis dignissim dolus et jus nibh os quadrum torqueo. Comis cui ille jugis occuro sed similis sino ut utinam. Caecus iriure odio pertineo premo tego vero. Dignissim pagus ymo. Causa conventio huic lenis quidne ratis.<\/p>\n<p>Abbas bene conventio mos os praemitto tincidunt vero. Autem dolore hos importunus quidem refero. Immitto loquor pecus persto quibus similis vicis ymo. Dolus eligo esse plaga probo saluto turpis vulpes. Blandit gravis nisl plaga. Abico commodo immitto neque quidem.<\/p>\n<p>Exerci meus quadrum. Immitto in macto sit virtus. Brevitas commoveo dolus ea eros letalis metuo mos similis valetudo. Commodo mos paratus quae similis vel. Aliquam bene dolore eu in quia saepius usitas vero. Esse feugiat meus natu pneum quae veniam ymo. Cui immitto occuro olim vicis. Consequat defui eu feugiat venio vulpes wisi.<\/p>\n",
+            "summary": "Abdo commodo ex interdico meus nutus pertineo quidne si utrum. Accumsan facilisis premo turpis vereor. Abbas capto cogo esca gemino haero letalis metuo probo quadrum. Capto iriure utrum. Acsi letalis pala pertineo sit.\n\nAbico commoveo esse ideo nulla nunc. Antehabeo defui dolor imputo mauris quibus singularis suscipit. Adipiscing cui exputo pagus vel vereor vero verto vicis. Aliquam mos nostrud sudo suscipit validus wisi. Consectetuer euismod melior nobis odio quis sino virtus. Commoveo ludus vero. Facilisi interdico zelus. Blandit capto diam enim eros inhibeo laoreet venio vindico. Commodo eu neque sino valetudo vereor zelus.\n\nDolore erat gilvus iustum molior neo scisco tamen uxor zelus. Causa consequat dolus eros genitus lenis ratis refoveo te vero. Euismod eum metuo volutpat. Conventio exputo meus nimis odio persto turpis. Comis eros eu ex pecus sagaciter velit vicis voco. Defui iaceo incassum qui suscipere. At eu immitto magna mauris persto singularis ulciscor veniam vereor. Brevitas comis cui jugis lucidus nobis nutus sit.\n\nAliquip enim qui sed torqueo vero volutpat vulputate. Aliquam dolor ea feugiat lobortis quadrum refoveo singularis. Ideo mos pagus quibus suscipit voco. Facilisi facilisis nisl persto refoveo.\n\nCausa commodo esse importunus neo nostrud os pala quadrum quibus. Cui damnum loquor pagus plaga rusticus saluto singularis usitas veniam. Esse immitto nunc plaga quae quidem suscipere velit vero verto. Abdo capto hendrerit meus. Jumentum nostrud pertineo. Autem camur erat genitus ibidem suscipere voco zelus. Os sagaciter te. Appellatio caecus cogo cui diam et ideo sagaciter utrum veniam.\n\nAdipiscing aliquam cogo ea facilisi lobortis lucidus molior patria veniam. Ibidem inhibeo lucidus nutus quibus. Comis eligo facilisi minim refero vindico zelus. Eligo pala tamen tum ut voco volutpat ymo. Abdo aptent eros nobis wisi. Abico nimis nunc persto probo proprius sagaciter. Consequat illum letalis praesent sit tamen tum. Decet dolor facilisis hendrerit in.\n\nAptent caecus dolor humo nostrud. Gilvus laoreet plaga tego tincidunt turpis ulciscor. Damnum immitto minim neque saepius torqueo vicis. At ibidem imputo obruo oppeto sagaciter singularis turpis utinam. Abbas antehabeo molior nimis patria quia sino. Autem commoveo consequat plaga. Immitto mos odio proprius tum. Illum importunus macto mos patria quae singularis.\n\nCausa gilvus ille suscipit typicus zelus. At enim erat hendrerit molior neo. Abdo bene obruo os pala pneum proprius te. Eros exputo laoreet pecus vel. Consectetuer eligo gemino letalis loquor paulatim qui singularis.\n\nAd aptent decet ibidem nibh nostrud nunc oppeto vindico. Gilvus iusto oppeto pecus populus sed te torqueo velit. Aptent bene brevitas fere gravis lobortis luctus nisl singularis typicus.\n\nCausa comis dignissim dolus et jus nibh os quadrum torqueo. Comis cui ille jugis occuro sed similis sino ut utinam. Caecus iriure odio pertineo premo tego vero. Dignissim pagus ymo. Causa conventio huic lenis quidne ratis.\n\nAbbas bene conventio mos os praemitto tincidunt vero. Autem dolore hos importunus quidem refero. Immitto loquor pecus persto quibus similis vicis ymo. Dolus eligo esse plaga probo saluto turpis vulpes. Blandit gravis nisl plaga. Abico commodo immitto neque quidem.\n\nExerci meus quadrum. Immitto in macto sit virtus. Brevitas commoveo dolus ea eros letalis metuo mos similis valetudo. Commodo mos paratus quae similis vel. Aliquam bene dolore eu in quia saepius usitas vero. Esse feugiat meus natu pneum quae veniam ymo. Cui immitto occuro olim vicis. Consequat defui eu feugiat venio vulpes wisi.\n\n",
+            "lang": "en"
+        }
+    ]
+}

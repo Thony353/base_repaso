@@ -1,0 +1,216 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/node\/4?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/node\/chefs"
+        },
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/chefs\/revision_uid": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/chefs\/uid": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/chefs\/field_cooking_specialty": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
+            },
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/chefs\/field_image": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_2X5kEM.png",
+                "lang": "en"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 4
+        }
+    ],
+    "uuid": [
+        {
+            "value": "dcf0fd66-6a06-499a-813b-2d3ed3812430"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "chefs"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-13T00:04:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/chefs\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "574e1d29-8023-456f-8372-aa0c8730ac2b"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/chefs\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "574e1d29-8023-456f-8372-aa0c8730ac2b"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/chefs\/field_cooking_specialty": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/taxonomy\/term\/2?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/taxonomy_term\/cuisine"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "95cb02fc-8bad-446f-80d5-abfa49392cbc"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/taxonomy\/term\/13?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/taxonomy_term\/cuisine"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c3b7f58a-7e8e-4e9c-8261-305127bf0f27"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/node\/chefs\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_2X5kEM.png"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "078e2685-46fa-4b41-8723-c5a3441c148f"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Chefs - Accumsan Nutus",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-11T13:03:59+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-13T00:04:26+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Accumsan cogo decet haero luptatum minim occuro proprius quidne utrum. Euismod importunus incassum inhibeo obruo singularis veniam. Acsi consectetuer defui duis luptatum praesent quidem suscipit vel. Aliquam blandit comis eu immitto inhibeo saepius sudo utinam vindico.\n\nConsectetuer et ex gemino iaceo loquor vulputate. Accumsan cogo quibus roto. Aliquip esca importunus probo roto tincidunt voco. Causa importunus lobortis mos pecus vicis. Abigo augue lucidus luptatum minim mos probo secundum ullamcorper. Distineo modo oppeto persto velit.\n\nAbico fere neque nimis. Autem blandit esca iusto persto qui. Abico duis facilisi humo ideo macto persto probo torqueo venio. Abigo aliquip dignissim distineo ulciscor vindico. Aliquip autem damnum eu jus ludus paulatim scisco. Causa commoveo incassum paratus refero refoveo saluto turpis vindico. Genitus meus pala pertineo tego veniam volutpat.\n\nDecet ea lenis loquor molior occuro. Cui dignissim luptatum tego uxor valetudo. Brevitas incassum neque nobis os plaga ut valde velit vulpes. Dolus eu gilvus laoreet tum ulciscor valde. Adipiscing hos iriure ludus macto melior pagus sed vulpes.\n\nAcsi comis conventio oppeto. Consequat diam distineo hendrerit lucidus modo valetudo velit. Augue blandit defui dolor gemino laoreet pala sagaciter valde vulputate. Dignissim enim et jumentum nobis nunc os volutpat ymo.\n\nDolus eros loquor magna nisl nobis saluto. Genitus utinam valetudo. Mauris secundum torqueo. Defui diam ex mauris. Abluo acsi diam eros gravis pagus quis vicis. Et eu feugiat genitus melior nostrud nulla. Abbas duis gilvus illum iusto nimis probo quidem roto tum. Comis consectetuer meus secundum tum venio. Esse fere ludus nobis nutus sagaciter tego.\n\nAcsi importunus valde veniam. Commoveo exputo iaceo nutus pala proprius ut. Damnum importunus nulla. Accumsan molior patria quidne torqueo typicus validus virtus vulpes vulputate. Autem feugiat quia valetudo. Conventio esse roto. Commoveo eu natu nisl torqueo. Abico comis elit hendrerit illum vero volutpat.\n\nCommodo haero ideo magna nunc quis suscipit zelus. Accumsan ea incassum proprius refoveo wisi. Causa mauris saepius singularis. Pecus roto validus wisi.\n\nAt nibh tum utrum wisi. Consequat eu nibh pala rusticus similis. Ad caecus elit et feugiat refoveo usitas velit. Ad at causa commoveo lobortis quia sino. Accumsan dignissim ibidem in olim premo refoveo velit. Dolus genitus metuo natu verto. Capto sed vulputate. Accumsan feugiat laoreet loquor. Antehabeo iaceo ideo lucidus luctus suscipit voco.\n\nEsse facilisis illum jugis oppeto ratis saluto. Adipiscing dolor eum iusto laoreet melior oppeto. Appellatio et facilisis lenis lobortis paulatim praemitto quidem quidne usitas. Facilisis incassum nostrud quia. Aliquip dignissim elit eu exputo incassum uxor vel.\n\nAcsi cogo gemino neo pertineo refero tum ulciscor. Cogo consequat dolore ille immitto quibus suscipit usitas velit verto. Esca lobortis pagus refoveo. Dignissim hos metuo meus modo quidne ullamcorper veniam.\n\nCaecus decet duis exerci iaceo ibidem lobortis metuo voco. Antehabeo conventio distineo dolus feugiat tamen tego. Blandit caecus macto magna molior premo qui sino virtus. Hendrerit lenis neo pecus probo quae singularis torqueo vulputate. Abdo eum letalis neo praemitto quadrum typicus virtus.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Accumsan cogo decet haero luptatum minim occuro proprius quidne utrum. Euismod importunus incassum inhibeo obruo singularis veniam. Acsi consectetuer defui duis luptatum praesent quidem suscipit vel. Aliquam blandit comis eu immitto inhibeo saepius sudo utinam vindico.<\/p>\n<p>Consectetuer et ex gemino iaceo loquor vulputate. Accumsan cogo quibus roto. Aliquip esca importunus probo roto tincidunt voco. Causa importunus lobortis mos pecus vicis. Abigo augue lucidus luptatum minim mos probo secundum ullamcorper. Distineo modo oppeto persto velit.<\/p>\n<p>Abico fere neque nimis. Autem blandit esca iusto persto qui. Abico duis facilisi humo ideo macto persto probo torqueo venio. Abigo aliquip dignissim distineo ulciscor vindico. Aliquip autem damnum eu jus ludus paulatim scisco. Causa commoveo incassum paratus refero refoveo saluto turpis vindico. Genitus meus pala pertineo tego veniam volutpat.<\/p>\n<p>Decet ea lenis loquor molior occuro. Cui dignissim luptatum tego uxor valetudo. Brevitas incassum neque nobis os plaga ut valde velit vulpes. Dolus eu gilvus laoreet tum ulciscor valde. Adipiscing hos iriure ludus macto melior pagus sed vulpes.<\/p>\n<p>Acsi comis conventio oppeto. Consequat diam distineo hendrerit lucidus modo valetudo velit. Augue blandit defui dolor gemino laoreet pala sagaciter valde vulputate. Dignissim enim et jumentum nobis nunc os volutpat ymo.<\/p>\n<p>Dolus eros loquor magna nisl nobis saluto. Genitus utinam valetudo. Mauris secundum torqueo. Defui diam ex mauris. Abluo acsi diam eros gravis pagus quis vicis. Et eu feugiat genitus melior nostrud nulla. Abbas duis gilvus illum iusto nimis probo quidem roto tum. Comis consectetuer meus secundum tum venio. Esse fere ludus nobis nutus sagaciter tego.<\/p>\n<p>Acsi importunus valde veniam. Commoveo exputo iaceo nutus pala proprius ut. Damnum importunus nulla. Accumsan molior patria quidne torqueo typicus validus virtus vulpes vulputate. Autem feugiat quia valetudo. Conventio esse roto. Commoveo eu natu nisl torqueo. Abico comis elit hendrerit illum vero volutpat.<\/p>\n<p>Commodo haero ideo magna nunc quis suscipit zelus. Accumsan ea incassum proprius refoveo wisi. Causa mauris saepius singularis. Pecus roto validus wisi.<\/p>\n<p>At nibh tum utrum wisi. Consequat eu nibh pala rusticus similis. Ad caecus elit et feugiat refoveo usitas velit. Ad at causa commoveo lobortis quia sino. Accumsan dignissim ibidem in olim premo refoveo velit. Dolus genitus metuo natu verto. Capto sed vulputate. Accumsan feugiat laoreet loquor. Antehabeo iaceo ideo lucidus luctus suscipit voco.<\/p>\n<p>Esse facilisis illum jugis oppeto ratis saluto. Adipiscing dolor eum iusto laoreet melior oppeto. Appellatio et facilisis lenis lobortis paulatim praemitto quidem quidne usitas. Facilisis incassum nostrud quia. Aliquip dignissim elit eu exputo incassum uxor vel.<\/p>\n<p>Acsi cogo gemino neo pertineo refero tum ulciscor. Cogo consequat dolore ille immitto quibus suscipit usitas velit verto. Esca lobortis pagus refoveo. Dignissim hos metuo meus modo quidne ullamcorper veniam.<\/p>\n<p>Caecus decet duis exerci iaceo ibidem lobortis metuo voco. Antehabeo conventio distineo dolus feugiat tamen tego. Blandit caecus macto magna molior premo qui sino virtus. Hendrerit lenis neo pecus probo quae singularis torqueo vulputate. Abdo eum letalis neo praemitto quadrum typicus virtus.<\/p>\n",
+            "summary": "Accumsan cogo decet haero luptatum minim occuro proprius quidne utrum. Euismod importunus incassum inhibeo obruo singularis veniam. Acsi consectetuer defui duis luptatum praesent quidem suscipit vel. Aliquam blandit comis eu immitto inhibeo saepius sudo utinam vindico.\n\nConsectetuer et ex gemino iaceo loquor vulputate. Accumsan cogo quibus roto. Aliquip esca importunus probo roto tincidunt voco. Causa importunus lobortis mos pecus vicis. Abigo augue lucidus luptatum minim mos probo secundum ullamcorper. Distineo modo oppeto persto velit.\n\nAbico fere neque nimis. Autem blandit esca iusto persto qui. Abico duis facilisi humo ideo macto persto probo torqueo venio. Abigo aliquip dignissim distineo ulciscor vindico. Aliquip autem damnum eu jus ludus paulatim scisco. Causa commoveo incassum paratus refero refoveo saluto turpis vindico. Genitus meus pala pertineo tego veniam volutpat.\n\nDecet ea lenis loquor molior occuro. Cui dignissim luptatum tego uxor valetudo. Brevitas incassum neque nobis os plaga ut valde velit vulpes. Dolus eu gilvus laoreet tum ulciscor valde. Adipiscing hos iriure ludus macto melior pagus sed vulpes.\n\nAcsi comis conventio oppeto. Consequat diam distineo hendrerit lucidus modo valetudo velit. Augue blandit defui dolor gemino laoreet pala sagaciter valde vulputate. Dignissim enim et jumentum nobis nunc os volutpat ymo.\n\nDolus eros loquor magna nisl nobis saluto. Genitus utinam valetudo. Mauris secundum torqueo. Defui diam ex mauris. Abluo acsi diam eros gravis pagus quis vicis. Et eu feugiat genitus melior nostrud nulla. Abbas duis gilvus illum iusto nimis probo quidem roto tum. Comis consectetuer meus secundum tum venio. Esse fere ludus nobis nutus sagaciter tego.\n\nAcsi importunus valde veniam. Commoveo exputo iaceo nutus pala proprius ut. Damnum importunus nulla. Accumsan molior patria quidne torqueo typicus validus virtus vulpes vulputate. Autem feugiat quia valetudo. Conventio esse roto. Commoveo eu natu nisl torqueo. Abico comis elit hendrerit illum vero volutpat.\n\nCommodo haero ideo magna nunc quis suscipit zelus. Accumsan ea incassum proprius refoveo wisi. Causa mauris saepius singularis. Pecus roto validus wisi.\n\nAt nibh tum utrum wisi. Consequat eu nibh pala rusticus similis. Ad caecus elit et feugiat refoveo usitas velit. Ad at causa commoveo lobortis quia sino. Accumsan dignissim ibidem in olim premo refoveo velit. Dolus genitus metuo natu verto. Capto sed vulputate. Accumsan feugiat laoreet loquor. Antehabeo iaceo ideo lucidus luctus suscipit voco.\n\nEsse facilisis illum jugis oppeto ratis saluto. Adipiscing dolor eum iusto laoreet melior oppeto. Appellatio et facilisis lenis lobortis paulatim praemitto quidem quidne usitas. Facilisis incassum nostrud quia. Aliquip dignissim elit eu exputo incassum uxor vel.\n\nAcsi cogo gemino neo pertineo refero tum ulciscor. Cogo consequat dolore ille immitto quibus suscipit usitas velit verto. Esca lobortis pagus refoveo. Dignissim hos metuo meus modo quidne ullamcorper veniam.\n\nCaecus decet duis exerci iaceo ibidem lobortis metuo voco. Antehabeo conventio distineo dolus feugiat tamen tego. Blandit caecus macto magna molior premo qui sino virtus. Hendrerit lenis neo pecus probo quae singularis torqueo vulputate. Abdo eum letalis neo praemitto quadrum typicus virtus.\n\n",
+            "lang": "en"
+        }
+    ]
+}

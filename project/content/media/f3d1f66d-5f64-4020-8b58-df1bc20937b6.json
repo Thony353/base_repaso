@@ -1,0 +1,184 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/duis-ibidem-illum-nostrud-pertineo-sit-virtus-vulpes.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/media\/image"
+        },
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/revision_user": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/uid": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/thumbnail": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_M5nNOK.jpg",
+                "lang": "und"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/field_media_image": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_M5nNOK.jpg",
+                "lang": "und"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 3
+        }
+    ],
+    "uuid": [
+        {
+            "value": "f3d1f66d-5f64-4020-8b58-df1bc20937b6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-13T00:04:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "574e1d29-8023-456f-8372-aa0c8730ac2b"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "574e1d29-8023-456f-8372-aa0c8730ac2b"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/thumbnail": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_M5nNOK.jpg"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "643f8593-098f-4192-8c92-f258cad54e40"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/field_media_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_M5nNOK.jpg"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "643f8593-098f-4192-8c92-f258cad54e40"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Damnum distineo dolor eligo jus nunc pala ratis tation utrum. Aliquip aptent neque vero. Consequat enim luptatum minim quis sudo vulpes. Damnum defui eros euismod in vulpes. Nobis pecus qui zelus. Commodo et eu hos praemitto utinam verto ymo. Patria quidem vicis. Blandit gravis nulla rusticus. Abluo ad causa humo oppeto tation valde. Ea populus quadrum quia tum.\n\nEu molior mos oppeto. Accumsan immitto mauris quis. Ille natu paulatim plaga sudo ulciscor ullamcorper vel vereor vulpes. Commodo damnum quae vindico. Bene cogo distineo imputo saluto venio. Capto conventio dignissim metuo nunc olim plaga scisco. Cogo eligo exputo facilisi gemino ibidem os tum utinam.\n\nExputo natu pagus si uxor. Aptent ille qui. Ex immitto neo sudo. Et ex gilvus huic jugis nimis nobis tamen velit voco. Autem eu meus quadrum qui sed ullamcorper velit vindico. Accumsan aliquam eum hos iriure iusto jugis pecus vindico. Esca fere jumentum jus letalis luctus tincidunt. Iusto luctus ludus mos refero uxor validus. Nostrud veniam vindico vulputate.\n\nAt blandit immitto neo pneum quis refoveo utrum vereor. Ea nunc premo. Aptent iustum molior praesent si. Ea feugiat nutus si ut. Aptent bene brevitas jumentum praesent valde zelus. Neque nibh typicus. Eligo pneum similis typicus. Magna neo pala ullamcorper vero. Diam hendrerit hos inhibeo natu odio pneum suscipit validus. Adipiscing capto causa os quidne torqueo. Abico commodo cui diam illum luctus pala probo quibus te.\n\nComis lobortis macto quidne sed sit. Abdo ad feugiat inhibeo jugis jumentum praesent tego valetudo. Duis probo quibus similis. At enim illum metuo neo olim pagus quae.\n\nAptent conventio esse gemino quibus sit ullamcorper vel wisi. Abdo augue defui virtus. Abdo ex incassum nulla tum ulciscor utrum vindico. Dolus elit euismod letalis mos nibh proprius quidem te virtus. Dolor feugiat sudo velit. Inhibeo lenis rusticus. Aliquip ea erat euismod luctus macto quae uxor valde vereor.\n\nAcsi feugiat gravis iusto luctus nisl premo valde. Cui diam hendrerit pala quae ratis veniam. Esse minim paratus similis uxor. Facilisis macto obruo ut. Gilvus iaceo letalis nulla occuro pertineo probo sed venio. Distineo neque torqueo veniam. Appellatio duis enim huic.\n\nAbluo loquor natu nobis occuro. Exerci iaceo pagus saluto tincidunt verto. Abdo augue ea tego. Abbas commodo diam enim hos roto saluto suscipere te torqueo. Interdico sit tum usitas utrum. Amet diam ibidem jumentum nunc. Consectetuer consequat dolore erat iriure luctus proprius wisi. Amet bene pala tation uxor.\n\nAdipiscing antehabeo hos iaceo loquor nibh tego. Autem ex inhibeo iriure lucidus meus nutus obruo occuro proprius. Caecus haero imputo melior neo rusticus sed virtus volutpat. Abluo appellatio consectetuer conventio iustum letalis luctus neo tincidunt zelus. Acsi brevitas duis odio proprius ulciscor ullamcorper uxor venio.\n\nAliquip at feugiat luctus luptatum metuo typicus utrum zelus. Dolore natu refoveo vel volutpat. Esse eum exerci. Damnum rusticus velit. Cogo dignissim euismod feugiat pertineo. Adipiscing cogo illum sit. Dignissim erat nulla obruo quadrum roto vindico. Exerci gemino haero praesent. Hos letalis pagus praesent quadrum ratis typicus ullamcorper. Comis secundum utrum. Brevitas camur damnum dignissim dolus odio quadrum qui saluto.\n\nAcsi cui enim exerci gilvus minim pecus saepius suscipere. Abluo loquor ludus luptatum quis scisco. Damnum eu ludus turpis ullamcorper. Facilisi feugiat in persto probo similis sudo zelus. Dolus eum saepius. At causa mauris zelus. Exputo ideo illum laoreet pertineo quae zelus. Accumsan at comis commodo eros nibh nobis olim roto saepius.\n\nBrevitas decet ex huic oppeto plaga uxor. Bene blandit ea jus pala paulatim sino ullamcorper valetudo. Comis defui melior quis. Bene euismod fere incassum lenis os patria vindico.\n\n"
+        }
+    ],
+    "status": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "name": [
+        {
+            "value": "huspospenamochebruprefrunegotrouejuswugedalerothespurodrocrivukekobedriclojululaparastihutruthagohecetriprishishuspiwrosteprushathigobidrolilospedroriuegiwauobraphenarustewrijiwrunahothabruslojepekegospadradrubeslechanedraslucujojebrulucluphop",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-01-10T23:14:58+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-19T10:06:31+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/duis-ibidem-illum-nostrud-pertineo-sit-virtus-vulpes.",
+            "pid": 3,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ]
+}

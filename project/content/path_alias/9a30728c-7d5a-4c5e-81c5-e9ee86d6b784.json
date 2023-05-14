@@ -1,0 +1,40 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "id": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "9a30728c-7d5a-4c5e-81c5-e9ee86d6b784"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "zxx"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/media\/2\/edit"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/caecus-magna-os-roto-tation-tum."
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

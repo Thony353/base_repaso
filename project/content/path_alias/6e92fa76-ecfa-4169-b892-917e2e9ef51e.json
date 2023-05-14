@@ -1,0 +1,40 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "id": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "6e92fa76-ecfa-4169-b892-917e2e9ef51e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/media\/1\/edit"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/amet-dolus-gilvus-haero-inhibeo-premo-qui-saepius."
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

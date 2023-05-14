@@ -1,0 +1,184 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/caecus-magna-os-roto-tation-tum.?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/media\/image"
+        },
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/revision_user": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/uid": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json",
+                "lang": "zxx"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/thumbnail": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_151R3K.png",
+                "lang": "zxx"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/field_media_image": [
+            {
+                "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_151R3K.png",
+                "lang": "zxx"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "243298f6-f186-4823-a805-e9891739c57a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "zxx",
+            "lang": "zxx"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-13T00:04:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "574e1d29-8023-456f-8372-aa0c8730ac2b"
+                    }
+                ]
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "574e1d29-8023-456f-8372-aa0c8730ac2b"
+                    }
+                ],
+                "lang": "zxx"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/thumbnail": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_151R3K.png"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "09c84563-93b1-4692-8bf9-d69e9adc2dbb"
+                    }
+                ],
+                "lang": "zxx"
+            }
+        ],
+        "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/relation\/media\/image\/field_media_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/sites\/default\/files\/2023-05\/generateImage_151R3K.png"
+                    },
+                    "type": {
+                        "href": "https:\/\/8080-thony353-baserepaso-nfetbf5qt45.ws-us97.gitpod.io\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "09c84563-93b1-4692-8bf9-d69e9adc2dbb"
+                    }
+                ],
+                "lang": "zxx"
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Adipiscing aptent blandit cui ibidem ideo iriure lucidus meus oppeto. Ad blandit facilisis jumentum neo nutus obruo odio quidne. Aliquam interdico metuo torqueo. Nunc utinam valde vulpes.\n\nDiam haero luptatum nulla veniam. Abigo ea letalis nutus olim quae sino uxor virtus. Aliquip humo macto. Dolore ea nostrud odio scisco virtus volutpat. Facilisis interdico macto quae singularis. Abigo pagus pneum volutpat. Cui fere gravis odio persto praemitto valde veniam venio vindico.\n\nAbigo ille luctus volutpat. Et quidem sudo ullamcorper validus wisi. Ad jumentum mos paulatim vero. Gemino humo ille luptatum nulla os quadrum quia usitas. Ille nibh nisl tum volutpat. Eum ex ideo probo saluto. Abico metuo probo scisco turpis usitas valetudo veniam.\n\nAppellatio consequat molior nisl rusticus vindico. Commoveo quae refero. Genitus utrum vulputate. Exputo quidne sagaciter suscipere. Ibidem illum jugis premo proprius usitas utinam vindico. Bene gilvus ideo in jus lobortis modo quis veniam. Genitus lucidus pneum. Abico causa distineo loquor magna pagus quis turpis zelus. Blandit conventio fere venio volutpat. Dolor immitto ludus. Augue esse verto.\n\nBene consequat esse facilisis neque wisi. Eligo facilisis jumentum proprius quibus quidne torqueo. Accumsan antehabeo comis ille oppeto qui rusticus tation ullamcorper validus. Abdo gilvus lobortis te torqueo. Acsi diam dolus inhibeo interdico pagus sino valetudo. Camur diam facilisis gravis iustum olim paratus patria vereor vero. Damnum ex loquor lucidus os validus volutpat. Aliquam augue bene damnum exerci neo suscipere vindico volutpat.\n\nCausa et hos importunus persto saepius verto. Consectetuer et haero patria. Abbas commoveo damnum decet exerci humo pagus quis. At decet dignissim feugiat importunus minim natu velit.\n\nAliquam minim scisco usitas. Comis enim eu exputo facilisis hos magna sed zelus. Bene gilvus saepius. Aliquam antehabeo at causa distineo natu olim ulciscor. Acsi dignissim facilisi humo iaceo ibidem letalis nimis probo suscipit. Modo pecus utrum. Gilvus incassum magna singularis ut utrum.\n\nAptent damnum dolore imputo mauris praemitto sudo. Accumsan nisl quidem venio. Consectetuer lucidus pecus. Conventio inhibeo iusto iustum mos pecus refoveo sino veniam. Dolus et eum gravis minim patria quibus quidem sit. Aliquam camur et magna pneum praesent saluto. Abdo eu facilisis pala qui uxor voco. Abluo humo imputo luctus neo quibus rusticus tation venio volutpat.\n\nAbluo exerci facilisi lobortis meus natu neque nunc obruo tation. Conventio et ex in jugis laoreet nutus suscipere vindico. Dolus duis esca facilisis pneum premo ulciscor validus. Autem eum exputo inhibeo lobortis melior refero roto vero vicis. Aliquam damnum huic. Damnum eligo euismod iustum mos olim quia. Abdo caecus esca iaceo interdico nulla quidem si virtus.\n\nAbico conventio dolore gilvus haero huic quis singularis sit. Blandit consectetuer erat gravis luctus persto quia sit venio virtus. Camur gravis iriure iusto odio pneum quia roto. Amet haero utrum. Abigo aliquip damnum eros sagaciter si. Dolore huic ibidem incassum magna. Huic minim nunc voco. Dignissim letalis premo.\n\nConsectetuer esca valetudo. Brevitas defui te utinam vindico. Blandit dignissim duis ibidem ille inhibeo iusto melior paulatim quis. Nibh rusticus sed similis. Abbas conventio humo letalis metuo pala plaga probo rusticus vereor. Accumsan meus plaga scisco. Exerci facilisis neo praesent quae quis tum valde virtus. Abico caecus consectetuer defui distineo importunus suscipit.\n\nHos ibidem nisl refero similis utinam. In neo os quibus ulciscor uxor wisi. Enim in olim singularis validus. Adipiscing commoveo illum praemitto vulputate wisi. Interdico metuo mos natu pneum suscipit.\n\n"
+        }
+    ],
+    "status": [
+        {
+            "value": false,
+            "lang": "zxx"
+        }
+    ],
+    "name": [
+        {
+            "value": "wruspusurodrethoswaphewradospojedrajoj",
+            "lang": "zxx"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-04T06:44:37+00:00",
+            "lang": "zxx",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-09T08:00:33+00:00",
+            "lang": "zxx",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "zxx"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "zxx"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/caecus-magna-os-roto-tation-tum.",
+            "pid": 2,
+            "langcode": "zxx",
+            "lang": "zxx"
+        }
+    ]
+}
