@@ -1,0 +1,8 @@
+uuid: 4514a96c-71dc-4093-bac0-c22e08fdd685
+langcode: en
+status: true
+dependencies: {  }
+name: 'Courses category'
+vid: courses_category
+description: 'Examples: Science, Languages'
+weight: 0

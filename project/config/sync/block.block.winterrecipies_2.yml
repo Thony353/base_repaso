@@ -1,4 +1,4 @@
-uuid: 38e88728-e273-4e92-a514-fa7fbd6d55f8
+uuid: 12d2c35f-f4ee-4e35-8d97-e70ebbf5e8f1
 langcode: en
 status: true
 dependencies:
@@ -6,13 +6,13 @@ dependencies:
     - 'block_content:featured_recipes:90da8917-2aa5-45be-aed3-7b36b682d8c0'
   module:
     - block_content
-    - node
+    - system
   theme:
     - olivero
-id: winterrecipies
+id: winterrecipies_2
 theme: olivero
 region: sidebar
-weight: -8
+weight: 0
 provider: null
 plugin: 'block_content:90da8917-2aa5-45be-aed3-7b36b682d8c0'
 settings:
@@ -24,10 +24,7 @@ settings:
   info: ''
   view_mode: full
 visibility:
-  'entity_bundle:node':
-    id: 'entity_bundle:node'
+  request_path:
+    id: request_path
     negate: false
-    context_mapping:
-      node: '@node.node_route_context:node'
-    bundles:
-      recipes: recipes
+    pages: /recipes

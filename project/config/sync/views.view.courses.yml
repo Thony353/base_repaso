@@ -1,14 +1,15 @@
-uuid: be3f8f55-679f-42f8-bf28-1529a2b09d2c
+uuid: c4be736f-f85c-4e0e-9754-07923da77d47
 langcode: en
 status: true
 dependencies:
   config:
-    - node.type.page
+    - node.type.courses
+    - system.menu.main
   module:
     - node
     - user
-id: frontpage
-label: frontpage
+id: courses
+label: Courses
 module: views
 description: ''
 tag: ''
@@ -21,6 +22,7 @@ display:
     display_plugin: default
     position: 0
     display_options:
+      title: Courses
       fields:
         title:
           id: title
@@ -36,18 +38,36 @@ display:
           exclude: false
           alter:
             alter_text: false
+            text: ''
             make_link: false
+            path: ''
             absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
             word_boundary: false
             ellipsis: false
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
             strip_tags: false
             trim: false
+            preserve_tags: ''
             html: false
           element_type: ''
           element_class: ''
           element_label_type: ''
           element_label_class: ''
-          element_label_colon: true
+          element_label_colon: false
           element_wrapper_type: ''
           element_wrapper_class: ''
           element_default_classes: true
@@ -58,7 +78,7 @@ display:
           click_sort_column: value
           type: string
           settings:
-            link_to_entity: true
+            link_to_entity: false
           group_column: value
           group_columns: {  }
           group_rows: true
@@ -69,11 +89,64 @@ display:
           multi_type: separator
           separator: ', '
           field_api_classes: false
+        view_node:
+          id: view_node
+          table: node
+          field: view_node
+          relationship: none
+          group_type: group
+          admin_label: ''
+          entity_type: node
+          plugin_id: entity_link
+          label: ''
+          exclude: false
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: false
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          text: 'View more'
+          output_url_as_text: false
+          absolute: false
       pager:
         type: mini
         options:
           offset: 0
-          items_per_page: 10
+          items_per_page: 5
           total_pages: null
           id: 0
           tags:
@@ -106,22 +179,21 @@ display:
         options: {  }
       empty: {  }
       sorts:
-        created:
-          id: created
+        title:
+          id: title
           table: node_field_data
-          field: created
+          field: title
           relationship: none
           group_type: group
           admin_label: ''
           entity_type: node
-          entity_field: created
-          plugin_id: date
-          order: DESC
+          entity_field: title
+          plugin_id: standard
+          order: ASC
           expose:
             label: ''
             field_identifier: ''
           exposed: false
-          granularity: second
       arguments: {  }
       filters:
         status:
@@ -143,20 +215,21 @@ display:
           entity_field: type
           plugin_id: bundle
           value:
-            page: page
+            courses: courses
       style:
         type: default
         options:
           grouping: {  }
           row_class: ''
           default_row_class: true
-          uses_fields: false
       row:
         type: fields
         options:
           default_field_elements: true
-          inline: {  }
-          separator: ''
+          inline:
+            title: title
+            view_node: view_node
+          separator: ' - '
           hide_empty: false
       query:
         type: views_query
@@ -167,9 +240,38 @@ display:
           replica: false
           query_tags: {  }
       relationships: {  }
+      use_more: false
+      use_more_always: false
+      use_more_text: more
       header: {  }
       footer: {  }
       display_extenders: {  }
+    cache_metadata:
+      max-age: -1
+      contexts:
+        - 'languages:language_content'
+        - 'languages:language_interface'
+        - url.query_args
+        - 'user.node_grants:view'
+        - user.permissions
+      tags: {  }
+  page_1:
+    id: page_1
+    display_title: Page
+    display_plugin: page
+    position: 1
+    display_options:
+      display_extenders: {  }
+      path: courses
+      menu:
+        type: normal
+        title: Courses
+        description: ''
+        weight: 0
+        expanded: false
+        menu_name: main
+        parent: ''
+        context: '0'
     cache_metadata:
       max-age: -1
       contexts:

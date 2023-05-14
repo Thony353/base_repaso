@@ -1,0 +1,31 @@
+uuid: 3c6f6c6b-e218-497b-a596-9e3ab3247b4a
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.courses
+    - field.field.block_content.courses.field_allcourses
+  module:
+    - link
+id: block_content.courses.default
+targetEntityType: block_content
+bundle: courses
+mode: default
+content:
+  field_allcourses:
+    type: link_default
+    weight: 26
+    region: content
+    settings:
+      placeholder_url: ''
+      placeholder_title: ''
+    third_party_settings: {  }
+  info:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden: {  }

@@ -1,0 +1,22 @@
+uuid: df419988-6e08-4547-952b-f7b64ad72a52
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.recent_courses
+    - field.field.block_content.recent_courses.field_title
+id: block_content.recent_courses.default
+targetEntityType: block_content
+bundle: recent_courses
+mode: default
+content:
+  field_title:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: teaser
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }

@@ -1,0 +1,27 @@
+uuid: d84c8f25-527c-4e49-9968-70fa0b7e389a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_program
+    - node.type.courses
+  module:
+    - file
+id: node.courses.field_program
+field_name: field_program
+entity_type: node
+bundle: courses
+label: Program
+description: 'Add the program of the course'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:file'
+  handler_settings: {  }
+  file_directory: '[date:custom:Y]-[date:custom:m]'
+  file_extensions: 'txt docx pdf'
+  max_filesize: ''
+  description_field: false
+field_type: file

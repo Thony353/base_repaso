@@ -1,0 +1,29 @@
+uuid: 65ac3b71-d09b-41a8-a23d-8538f21289d3
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.recent_courses
+    - field.storage.block_content.field_title
+    - node.type.courses
+id: block_content.recent_courses.field_title
+field_name: field_title
+entity_type: block_content
+bundle: recent_courses
+label: 'Recent Courses'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: views
+  handler_settings:
+    target_bundles:
+      courses: courses
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: 0
+    auto_create_bundle: ''
+field_type: entity_reference

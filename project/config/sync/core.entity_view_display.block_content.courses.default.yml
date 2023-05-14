@@ -1,0 +1,27 @@
+uuid: b693db59-d18d-4d38-8daa-d66dd97b7c41
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.courses
+    - field.field.block_content.courses.field_allcourses
+  module:
+    - link
+id: block_content.courses.default
+targetEntityType: block_content
+bundle: courses
+mode: default
+content:
+  field_allcourses:
+    type: link_separate
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }

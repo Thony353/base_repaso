@@ -1,0 +1,17 @@
+uuid: 83ad20dd-a34f-4a54-b259-f952bc69e858
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Courses
+type: courses
+description: 'Courses of the first semester 2023'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

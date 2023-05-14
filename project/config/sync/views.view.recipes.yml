@@ -1,14 +1,16 @@
-uuid: be3f8f55-679f-42f8-bf28-1529a2b09d2c
+uuid: e8aabb83-d6c0-4d7c-beba-7354fb9af919
 langcode: en
 status: true
 dependencies:
   config:
-    - node.type.page
+    - core.entity_view_mode.node.teaser
+    - node.type.recipes
+    - system.menu.main
   module:
     - node
     - user
-id: frontpage
-label: frontpage
+id: recipes
+label: Recipes
 module: views
 description: ''
 tag: ''
@@ -21,6 +23,7 @@ display:
     display_plugin: default
     position: 0
     display_options:
+      title: Recipes
       fields:
         title:
           id: title
@@ -106,22 +109,21 @@ display:
         options: {  }
       empty: {  }
       sorts:
-        created:
-          id: created
+        title:
+          id: title
           table: node_field_data
-          field: created
+          field: title
           relationship: none
           group_type: group
           admin_label: ''
           entity_type: node
-          entity_field: created
-          plugin_id: date
-          order: DESC
+          entity_field: title
+          plugin_id: standard
+          order: ASC
           expose:
             label: ''
             field_identifier: ''
           exposed: false
-          granularity: second
       arguments: {  }
       filters:
         status:
@@ -143,21 +145,13 @@ display:
           entity_field: type
           plugin_id: bundle
           value:
-            page: page
+            recipes: recipes
       style:
         type: default
-        options:
-          grouping: {  }
-          row_class: ''
-          default_row_class: true
-          uses_fields: false
       row:
-        type: fields
+        type: 'entity:node'
         options:
-          default_field_elements: true
-          inline: {  }
-          separator: ''
-          hide_empty: false
+          view_mode: teaser
       query:
         type: views_query
         options:
@@ -170,6 +164,28 @@ display:
       header: {  }
       footer: {  }
       display_extenders: {  }
+    cache_metadata:
+      max-age: -1
+      contexts:
+        - 'languages:language_content'
+        - 'languages:language_interface'
+        - url.query_args
+        - 'user.node_grants:view'
+        - user.permissions
+      tags: {  }
+  page_1:
+    id: page_1
+    display_title: Page
+    display_plugin: page
+    position: 1
+    display_options:
+      display_extenders: {  }
+      path: recipes
+      menu:
+        type: normal
+        title: Recipes
+        menu_name: main
+        parent: ''
     cache_metadata:
       max-age: -1
       contexts:

@@ -1,0 +1,8 @@
+uuid: 250f627e-853d-4029-9a61-fcd9f9892530
+langcode: en
+status: true
+dependencies: {  }
+id: recent_courses
+label: 'Recent Courses'
+revision: 0
+description: 'List of 3 recents courses'

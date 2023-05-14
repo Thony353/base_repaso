@@ -1,0 +1,31 @@
+uuid: 996faf6d-aa57-4615-8d7e-d6d714815c4a
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.recent_courses
+    - field.field.block_content.recent_courses.field_title
+id: block_content.recent_courses.default
+targetEntityType: block_content
+bundle: recent_courses
+mode: default
+content:
+  field_title:
+    type: entity_reference_autocomplete
+    weight: 26
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  info:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden: {  }
