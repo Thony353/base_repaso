@@ -1,0 +1,20 @@
+uuid: 4ae85df4-3633-4bd3-977d-d140af105556
+langcode: en
+status: true
+dependencies:
+  theme:
+    - ucr
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: ucr_page_title
+theme: ucr
+region: content_above
+weight: -9
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

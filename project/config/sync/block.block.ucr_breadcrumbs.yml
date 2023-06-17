@@ -1,0 +1,30 @@
+uuid: ca601dc3-e438-45b4-bce9-2d814d9e6abd
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - system
+  theme:
+    - ucr
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: ucr_breadcrumbs
+theme: ucr
+region: breadcrumb
+weight: -9
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      page: page

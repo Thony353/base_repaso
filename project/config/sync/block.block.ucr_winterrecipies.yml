@@ -1,0 +1,30 @@
+uuid: 1bd85a51-d1cd-4971-8af4-13bdce4ec7de
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+  theme:
+    - ucr
+id: ucr_winterrecipies
+theme: ucr
+region: sidebar
+weight: -7
+provider: null
+plugin: 'block_content:90da8917-2aa5-45be-aed3-7b36b682d8c0'
+settings:
+  id: 'block_content:90da8917-2aa5-45be-aed3-7b36b682d8c0'
+  label: 'Winter recipies'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      recipes: recipes

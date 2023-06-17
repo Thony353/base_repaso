@@ -1,0 +1,29 @@
+uuid: 71e8ad70-d33b-40d6-887d-31233b2207d4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_component
+    - node.type.courses
+  module:
+    - entity_reference_revisions
+id: node.courses.field_component
+field_name: field_component
+entity_type: node
+bundle: courses
+label: Component
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles: null
+    negate: 0
+    target_bundles_drag_drop:
+      cta:
+        weight: 2
+        enabled: false
+field_type: entity_reference_revisions

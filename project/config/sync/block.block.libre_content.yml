@@ -1,0 +1,22 @@
+uuid: 3b4ecfeb-11bb-489c-b262-27a7dc37b2fb
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - libre
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: libre_content
+theme: libre
+region: content
+weight: -9
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

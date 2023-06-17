@@ -1,0 +1,23 @@
+uuid: da678749-1105-4a5d-a125-f95c7a0b41fe
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - ucr
+_core:
+  default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
+id: ucr_search_form_wide
+theme: ucr
+region: secondary_menu
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (wide)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

@@ -1,0 +1,23 @@
+uuid: 5e566159-acd9-4dcc-b79e-59a9265fc0e8
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - libre
+_core:
+  default_config_hash: yEBET0cqDbk8dkWzaJw-8CKft0961VBflsISoSR6Lj8
+id: libre_search_form_narrow
+theme: libre
+region: primary_menu
+weight: -4
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (narrow)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

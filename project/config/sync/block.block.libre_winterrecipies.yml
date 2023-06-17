@@ -1,0 +1,30 @@
+uuid: 27092a04-d9d1-45ec-bb16-ed50b951a346
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+  theme:
+    - libre
+id: libre_winterrecipies
+theme: libre
+region: header
+weight: -8
+provider: null
+plugin: 'block_content:90da8917-2aa5-45be-aed3-7b36b682d8c0'
+settings:
+  id: 'block_content:90da8917-2aa5-45be-aed3-7b36b682d8c0'
+  label: 'Winter recipies'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      recipes: recipes

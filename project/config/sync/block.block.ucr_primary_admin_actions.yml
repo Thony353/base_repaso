@@ -1,0 +1,20 @@
+uuid: cdce3d03-1c34-4cfc-90d0-e27a24f661bf
+langcode: en
+status: true
+dependencies:
+  theme:
+    - ucr
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: ucr_primary_admin_actions
+theme: ucr
+region: highlighted
+weight: -8
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

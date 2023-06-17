@@ -1,0 +1,30 @@
+uuid: 53102f6a-936a-4553-b6a7-5bcc6d46a1bd
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+  theme:
+    - ucr
+id: ucr_recentlyaddedcourses_2
+theme: ucr
+region: sidebar
+weight: -8
+provider: null
+plugin: 'block_content:92045cb3-5dc2-42c2-92b6-891b4f727f1d'
+settings:
+  id: 'block_content:92045cb3-5dc2-42c2-92b6-891b4f727f1d'
+  label: 'Recently added courses'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+    bundles:
+      courses: courses

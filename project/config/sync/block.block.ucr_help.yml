@@ -1,0 +1,22 @@
+uuid: 8ed216c2-d4b5-4906-bc49-1d2a1de4c690
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - ucr
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: ucr_help
+theme: ucr
+region: highlighted
+weight: -5
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

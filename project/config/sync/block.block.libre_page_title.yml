@@ -1,0 +1,20 @@
+uuid: b5fdc5b8-2f36-491e-8822-56b1957a7b06
+langcode: en
+status: true
+dependencies:
+  theme:
+    - libre
+_core:
+  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
+id: libre_page_title
+theme: libre
+region: header
+weight: -9
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

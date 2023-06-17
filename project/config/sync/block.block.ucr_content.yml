@@ -1,0 +1,22 @@
+uuid: 2ca87419-c909-49cd-9c8a-6a498c97011e
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - ucr
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: ucr_content
+theme: ucr
+region: content
+weight: -9
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

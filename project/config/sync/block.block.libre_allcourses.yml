@@ -1,0 +1,21 @@
+uuid: 68972c78-5e95-462e-ab35-f1709488fb59
+langcode: en
+status: true
+dependencies:
+  theme:
+    - libre
+id: libre_allcourses
+theme: libre
+region: header
+weight: -7
+provider: null
+plugin: 'block_content:8cd7cf60-e52a-468e-87b8-e07b25bd203f'
+settings:
+  id: 'block_content:8cd7cf60-e52a-468e-87b8-e07b25bd203f'
+  label: 'All courses'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }
