@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e71c3cb1827278ce51108c4a9708ef4a",
+    "content-hash": "99be4ddb227cbbe2fcbbe62670002f3f",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2140,23 +2140,92 @@
             }
         },
         {
-            "name": "drush/drush",
-            "version": "11.5.1",
+            "name": "drupal/ui_patterns",
+            "version": "1.5.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/drush-ops/drush.git",
-                "reference": "3138f82baa3b0e29ac935893a444881a7332177d"
+                "url": "https://git.drupalcode.org/project/ui_patterns.git",
+                "reference": "8.x-1.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/3138f82baa3b0e29ac935893a444881a7332177d",
-                "reference": "3138f82baa3b0e29ac935893a444881a7332177d",
+                "url": "https://ftp.drupal.org/files/projects/ui_patterns-8.x-1.5.zip",
+                "reference": "8.x-1.5",
+                "shasum": "fbe88f3d70f50a02672cba974275a5b7703be41a"
+            },
+            "require": {
+                "drupal/core": "^9 || ^10"
+            },
+            "require-dev": {
+                "drupal/ds": "~3",
+                "drupal/field_group": "~3.0"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "8.x-1.5",
+                    "datestamp": "1674137427",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Nuvole Web",
+                    "homepage": "https://www.drupal.org/user/186696",
+                    "email": "info@nuvole.org"
+                },
+                {
+                    "name": "bircher",
+                    "homepage": "https://www.drupal.org/user/1344166"
+                },
+                {
+                    "name": "G4MBINI",
+                    "homepage": "https://www.drupal.org/user/2533498"
+                },
+                {
+                    "name": "Grimreaper",
+                    "homepage": "https://www.drupal.org/user/2388214"
+                },
+                {
+                    "name": "pdureau",
+                    "homepage": "https://www.drupal.org/user/1903334"
+                },
+                {
+                    "name": "pescetti",
+                    "homepage": "https://www.drupal.org/user/436244"
+                }
+            ],
+            "description": "UI Patterns.",
+            "homepage": "https://www.drupal.org/project/ui_patterns",
+            "support": {
+                "source": "https://git.drupalcode.org/project/ui_patterns"
+            }
+        },
+        {
+            "name": "drush/drush",
+            "version": "11.6.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/drush-ops/drush.git",
+                "reference": "f301df5dec8d2aacb03d3e01e0ffc6d98e10ae78"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/f301df5dec8d2aacb03d3e01e0ffc6d98e10ae78",
+                "reference": "f301df5dec8d2aacb03d3e01e0ffc6d98e10ae78",
                 "shasum": ""
             },
             "require": {
                 "chi-teck/drupal-code-generator": "^2.4",
                 "composer/semver": "^1.4 || ^3",
-                "consolidation/annotated-command": "^4.7.0",
+                "consolidation/annotated-command": "^4.8.2",
                 "consolidation/config": "^2",
                 "consolidation/filter-via-dot-access-data": "^2",
                 "consolidation/robo": "^3.0.9 || ^4.0.1",
@@ -2274,7 +2343,7 @@
                 "forum": "http://drupal.stackexchange.com/questions/tagged/drush",
                 "issues": "https://github.com/drush-ops/drush/issues",
                 "slack": "https://drupal.slack.com/messages/C62H9CWQM",
-                "source": "https://github.com/drush-ops/drush/tree/11.5.1"
+                "source": "https://github.com/drush-ops/drush/tree/11.6.0"
             },
             "funding": [
                 {
@@ -2282,7 +2351,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-02-21T02:32:48+00:00"
+            "time": "2023-06-06T18:46:18+00:00"
         },
         {
             "name": "egulias/email-validator",

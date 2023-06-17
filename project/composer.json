@@ -28,7 +28,8 @@
         "drupal/default_content_deploy": "^2.0",
         "drupal/devel": "^5.1",
         "drupal/paragraphs": "^1.15",
-        "drush/drush": "^11.5",
+        "drupal/ui_patterns": "^1.5",
+        "drush/drush": "^11.6",
         "npm-asset/chosen": "^0.0.2",
         "oomphinc/composer-installers-extender": "^2.0"
     },
@@ -53,6 +54,9 @@
         "drupal-scaffold": {
             "locations": {
                 "web-root": "web/"
+            },
+            "file-mapping": {
+                "[web-root] /sites/development.services.yml": false
             }
         },
         "installer-paths": {
